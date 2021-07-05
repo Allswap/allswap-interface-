@@ -1,4 +1,4 @@
-import { ChainId } from '@allswap-sdk'
+import { ChainId } from 'allswap-sdk'
 import { FortmaticConnector } from './Fortmatic'
 import { InjectedConnector } from '@web3-react/injected-connector'
 import { LatticeConnector } from '@web3-react/lattice-connector'
